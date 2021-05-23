@@ -1,7 +1,7 @@
 package students;
 
 import java.util.Scanner;
-
+// dit me may moi up cai di the
 public class Person {
     private Scanner keyboard = new Scanner(System.in);
     private String ten;
